@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Blevs/webauth-i-recitation/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Blevs/webauth-i-recitation#readme",
+  "homepage": "",
   "dependencies": {
     "bcrypt": "^3.0.7",
     "bcryptjs": "^2.4.3",
